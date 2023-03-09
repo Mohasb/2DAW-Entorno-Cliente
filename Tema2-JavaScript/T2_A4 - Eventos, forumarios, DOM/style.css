@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: darkgray;
+    color: rgb(red, green, blue);
+}
+h1 {
+    text-align: center;
+}
+label{
+    display: inline-block;
+    width: 150px;
+}
+span {
+    color: red;
+}
+
+#ejer4 > p {
+    display: inline;
+}
